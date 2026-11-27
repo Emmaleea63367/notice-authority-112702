@@ -1,0 +1,4 @@
+{"seq":9,"notice":"n-8","rev":1,"case":"case-81","holder":"A:27","kind":"formal","personal_ack":false}
+{"seq":10,"notice":"n-9","rev":1,"case":"case-81","holder":"A:27","kind":"personal","personal_ack":true}
+{"seq":11,"notice":"n-10","rev":1,"case":"case-81","holder":"A:27","kind":"ordinary","personal_ack":false}
+{"seq":29,"notice":"n-8","rev":2,"case":"case-81","holder":"A:27","kind":"formal","personal_ack":false}

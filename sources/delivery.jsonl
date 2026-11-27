@@ -1,0 +1,8 @@
+{"seq":12,"attempt":"a1","notice":"n-8","rev":1,"principal":"portal:93","result":"offered","occurred":9}
+{"seq":13,"attempt":"a2","notice":"n-9","rev":1,"principal":"portal:91","result":"offered","occurred":10}
+{"seq":16,"attempt":"a1","notice":"n-8","rev":1,"principal":"portal:93","result":"pending","occurred":null}
+{"seq":19,"attempt":"a1","notice":"n-8","rev":1,"principal":"portal:93","result":"acknowledged","occurred":12}
+{"seq":20,"attempt":"a2","notice":"n-9","rev":1,"principal":"portal:91","result":"acknowledged","occurred":19}
+{"seq":21,"attempt":"a3","notice":"n-10","rev":1,"principal":"portal:92","result":"absent","occurred":null}
+{"seq":26,"attempt":"a1","notice":"n-8","rev":1,"principal":"portal:93","result":"acknowledged","occurred":12}
+{"seq":30,"attempt":"a4","notice":"n-8","rev":2,"principal":"portal:94","result":"offered","occurred":29}

@@ -1,0 +1,6 @@
+{"seq":6,"ref":"A:m4","rev":1,"person":"A:35","holder":"A:27","case":"case-81","actions":["open","ack"],"from":0,"until":80}
+{"seq":7,"ref":"B:m4","rev":1,"person":"B:27","holder":"A:27","case":"case-81","actions":["open"],"from":0,"until":30}
+{"seq":8,"ref":"B:m5","rev":1,"person":"B:41","holder":"A:27","case":"case-81","actions":["supply"],"from":4,"until":90}
+{"seq":18,"ref":"A:m4","rev":2,"person":"A:35","holder":"A:27","case":"case-81","actions":["open","ack"],"from":0,"until":14}
+{"seq":25,"ref":"A:m4","rev":3,"person":"A:35","holder":"A:27","case":"case-81","actions":["open","ack"],"from":0,"until":10}
+{"seq":27,"ref":"B:m6","rev":1,"person":"B:41","holder":"A:27","case":"case-81","actions":["open","ack"],"from":27,"until":80}
